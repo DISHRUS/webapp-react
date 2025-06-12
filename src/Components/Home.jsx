@@ -18,6 +18,7 @@ function Home() {
             <h1>MWT is Highway for your business needs.</h1>
             <p>MWT is a global IT Service providing Company with Technical Powers, Respectfully working for our Clients Business Dreams. We help our clients with Marketing, Design, Develop and Maintaining of Business Processes by Utilizing the technologies.
             </p>
+            
         </div>
 
 {/* <div className="animated">

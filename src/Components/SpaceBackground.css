@@ -1,0 +1,25 @@
+/* SpaceBackground.css */
+.space-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  overflow: hidden;
+  z-index: -1;
+}
+.stars {
+  width: 100%;
+  height: 100%;
+  background: transparent url("https://raw.githubusercontent.com/kangax/fabric.js/master/test/fixtures/starfield.png") repeat;
+  animation: moveStars 200s linear infinite;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+@keyframes moveStars {
+  from { transform: translateY(0); }
+  to { transform: translateY(-1000px); }
+}
