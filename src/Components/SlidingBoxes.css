@@ -1,0 +1,50 @@
+.slider-container {
+    overflow-x: auto;
+    padding: 20px;
+    height: 50vh;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+  
+  }
+
+  
+  
+  .slider {
+    display: flex;
+    gap: 20px;
+    width: max-content;
+  }
+
+  
+  
+  .boe {
+    flex: 0 0 200px;
+    background: #fff;
+    height: auto;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  }
+  
+  
+  .icon {
+    margin-bottom: 10px;
+    color: #0d6efd;
+  }
+  
+  .boe h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .boe p {
+    font-size: 14px;
+    opacity: 0.85;
+  }
+  
