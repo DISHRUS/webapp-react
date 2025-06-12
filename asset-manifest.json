@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/webapp-react/static/css/main.9098d677.css",
+    "main.js": "/webapp-react/static/js/main.d6a5a446.js",
+    "static/js/453.ed3810f9.chunk.js": "/webapp-react/static/js/453.ed3810f9.chunk.js",
+    "static/media/IT.png": "/webapp-react/static/media/IT.2781e22fa0af5edb60ec.png",
+    "static/media/mk.png": "/webapp-react/static/media/mk.3a344e6a90743b9df234.png",
+    "static/media/logo.png": "/webapp-react/static/media/logo.774e2588361be7446c1c.png",
+    "static/media/graphics.png": "/webapp-react/static/media/graphics.9bfada3ee2a0779e22bc.png",
+    "static/media/background.webp": "/webapp-react/static/media/background.4a00095f4c57b9a36e92.webp",
+    "static/media/meetup.png": "/webapp-react/static/media/meetup.ed1e3e03a76c88bd06de.png",
+    "index.html": "/webapp-react/index.html",
+    "main.9098d677.css.map": "/webapp-react/static/css/main.9098d677.css.map",
+    "main.d6a5a446.js.map": "/webapp-react/static/js/main.d6a5a446.js.map",
+    "453.ed3810f9.chunk.js.map": "/webapp-react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9098d677.css",
+    "static/js/main.d6a5a446.js"
+  ]
+}
